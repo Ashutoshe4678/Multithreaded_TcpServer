@@ -1,0 +1,7 @@
+server
+client
+*.o
+__pycache__/
+*.pyc
+.vscode/
+*.log
